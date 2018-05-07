@@ -1,9 +1,9 @@
 {
-  "name": "eslint-config-airbnb-prettier",
+  "name": "eslint-config-prettier-airbnb",
   "version": "0.1.0",
   "description": "airbnb-base with overrides to work with prettier",
   "main": "index.js",
-  "repository": "git@github.com:jobsquad/eslint-config-airbnb-prettier.git",
+  "repository": "git@github.com:jobsquad/eslint-config-prettier-airbnb.git",
   "author": "Adam Meadows [https://github.com/job13er]",
   "license": "MIT",
   "lint-staged": {
