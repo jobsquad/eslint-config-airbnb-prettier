@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 <!-- bumpr -->
 
+## [0.1.0] - 2018-05-21
+### Added
+- Export `prettier.js` to provide `prettier` config that works with these `eslint` rules
+
 ## [0.2.0] - 2018-05-07
 ### Changed
 - Package name to `eslint-config-prettier-airbnb` since the previous name `eslint-config-airbnb-prettier` was taken.
